@@ -37,7 +37,7 @@ line-height: 30px;
   position: relative;
 }
 header{ 
-  width: 100%;
+  width: 1440px;
   height: 142px;
   display: flex;
   justify-content: space-between;
@@ -47,7 +47,6 @@ margin: 0 40px 0 40px;}
  .head-img{
   align-self: center;
  }
- 
 ul{
   list-style-type: none;
   display: flex;
